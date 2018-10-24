@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#add-todo {
+    background: #e6e6e6;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 6px;
+    padding: 10px;
+    width: 230px;
+}
+
+#add-todo:hover {
+    border: solid 2px skyblue;
+}
+
+.todo-items {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 250px;
+}
+
+#item-box {
+    display: inline-flex;
+    justify-content: space-between;
+    background: #e6e6e6;;
+    padding: 5px;
+    border-radius: 6px;
+    margin: 6px;
+    width: 200px;
+}
+
+#item-box:hover {
+    border: solid 2px skyblue;
+}
+ 
+#delete-form {
+    padding-left: 50px;
+}

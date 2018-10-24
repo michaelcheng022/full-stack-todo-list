@@ -13,3 +13,8 @@
 * better styling for buttons
 * user authentication??? OR save user data with cookies 
 * overall styling can be improved upon
+
+#### Next Steps:
+* finish functionality
+* deploy on Heroku
+* add to portfolio (after it has been made)
